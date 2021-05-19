@@ -5,7 +5,7 @@ lon = 7.484130
 
 LAT_MY = 47.533340
 LNG_MY = 21.625210
-API_KEY = "7935e9ac6e636d5108f59309a7a91a51"
+API_KEY =
 ONE_CALL_API = "https://api.openweathermap.org/data/2.5/onecall"
 parameters = {
     "lat": lat,
